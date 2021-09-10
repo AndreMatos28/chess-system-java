@@ -10,8 +10,18 @@ O objetivo e aplicar o aprendizado de OOP, boas praticas de oprogramação, trat
 
 ##First class: Position 
 ####<p>Checklist: 
-- <p>Class Position [public]
-- <p>OOP Topics:
-  <p>-Encapsulation
-  <p>-Constructors
-  <p>-ToString (Object / overriding)
+- Class Position [public]
+- OOP Topics:
+  - Encapsulation
+  - Constructors
+  - ToString (Object / overriding)
+
+##Starting to implement Board and Piece
+####<p>Checklist:
+
+- Classes Piece, Board [public]
+- OOP Topics:
+  - Associations
+  - Encapsulation / Access Modifiers
+- Data Structures Topics:
+  - Matrix  
