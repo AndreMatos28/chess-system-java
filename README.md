@@ -9,7 +9,7 @@ O objetivo e aplicar o aprendizado de OOP, boas praticas de oprogramação, trat
 # Commits 
 
 ##First class: Position 
-####<p>Checklist: 
+###Checklist: 
 - Class Position [public]
 - OOP Topics:
   - Encapsulation
@@ -17,7 +17,7 @@ O objetivo e aplicar o aprendizado de OOP, boas praticas de oprogramação, trat
   - ToString (Object / overriding)
 
 ##Starting to implement Board and Piece
-####<p>Checklist:
+###Checklist:
 
 - Classes Piece, Board [public]
 - OOP Topics:
